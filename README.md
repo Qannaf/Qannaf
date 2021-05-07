@@ -10,5 +10,4 @@ I'm an engineer with a Master's degree in Electronics, Electrotechnics and Autom
     <a href="https://fr.linkedin.com/in/qannaf-al-sahmi-34138115a" target="_blank"><img height="38" src="https://img.shields.io/static/v1?label=linkedin&message=Connect&color=0072b1&style=for-the-badge&logo=linkedin&labelColor=000"/></a>
 
 <p align="center">
-  <img width="800" height="600" src="qannaf.gif">
-</p>
+  <img width="800" height="600" src="qannaf.gif"></p>
