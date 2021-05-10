@@ -2,7 +2,7 @@
 ---------------------
 I'm an engineer with a Master's degree in Electronics, Electrotechnics and Automation (E.E.A.) specialized in Signal Imaging and Application and a first Master 2 specialized in electronics.
 
-⚠️ Feel free to contact me if you have any question :
+⚠️ Contact me if you have any question :
 📩 : qannafalsahmi@gmail.com
 
 <a href="http://bit.do/AL-SAHMI" target="_blank"><img height="38" src="https://img.shields.io/static/v1?label=Portfolio&message=q.alsahmi&color=brightgreen&style=for-the-badge&logo=netlify&labelColor=000"/></a>
