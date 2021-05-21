@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Qannaf
 ---------------------
 I'm an engineer with a Master's degree in Electronics, Electrotechnics and Automation (E.E.A.) specialized in Signal Imaging and Application and a first Master 2 specialized in electronics.
-
 ⚠️ Contact me if you have any question :
 📩 : qannafalsahmi@gmail.com
 
