@@ -15,4 +15,3 @@ I'm an engineer with a Master's degree in Electronics, Electrotechnics and Autom
 </p>
 
 
-
