@@ -1,3 +1,7 @@
+<!-- visitor counter -->
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/kmhmubin/count.svg" />
+</p>
 - 👋 Hi, I’m @Qannaf
 ---------------------
 
