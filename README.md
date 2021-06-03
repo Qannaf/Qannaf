@@ -2,7 +2,11 @@
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/kmhmubin/count.svg" />
 </p>
-- 👋 Hi, I’m @Qannaf
+
+<!-- welcome message -->
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+
+<h3>Glad to see you here!</h3>
 ---------------------
 
 I'm an engineer with a Master's degree in Electronics, Electrotechnics and Automation (E.E.A.) specialized in Signal Imaging and Application and a first Master 2 specialized in electronics.
