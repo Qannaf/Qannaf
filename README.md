@@ -1,7 +1,6 @@
 <!-- visitor counter -->
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/Qannaf/count.svg" /> 
-  
+  <img src="https://profile-counter.glitch.me/Qannaf/count.svg" />   
 </p>
 
 <!-- welcome message -->
