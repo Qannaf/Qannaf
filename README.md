@@ -1,8 +1,13 @@
 <!-- visitor counter -->
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Qannaf/count.svg" />   
-
 </p>
+
+
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?user_id=1849174)
 
 
 <!-- welcome message -->
@@ -41,3 +46,16 @@ I'm Qannaf AL-SAHMI, an engineer with a Master's degree in Electronics, Electrot
 <p align="center">
   <img width="800" height="600" src="qannaf.gif">
 </p>
+
+
+
+
+
+
+
+
+.
+
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Qannaf">
+</a>
