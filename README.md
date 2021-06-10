@@ -63,31 +63,7 @@ I'm Qannaf AL-SAHMI, an engineer with a Master's degree in Electronics, Electrot
 
 
 
-### Demo
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-- Compact layout
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-# Wakatime Week Stats
-
-Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
-
-```md
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-```
-
-### Demo
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
-- Compact layout
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/Qannaf/github-readme-stats)
 
 ---
 
@@ -95,23 +71,23 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 - Default
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qannaf)
 
 - Hiding specific stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qannaf&hide=contribs,issues)
 
 - Showing icons
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qannaf&hide=issues&show_icons=true)
 
 - Customize Border Color
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&border_color=2e4058)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qannaf&border_color=2e4058)
 
 - Include All Commits
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qannaf&include_all_commits=true)
 
 - Themes
 
