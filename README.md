@@ -3,6 +3,9 @@
   <img src="https://profile-counter.glitch.me/Qannaf/count.svg" />   
 </p>
 
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Qannaf">
+</a>
 
 <!-- welcome message -->
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
@@ -50,6 +53,3 @@ I'm Qannaf AL-SAHMI, an engineer with a Master's degree in Electronics, Electrot
 
 .
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Qannaf">
-</a>
