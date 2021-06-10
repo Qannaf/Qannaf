@@ -3,6 +3,7 @@
   <img src="https://profile-counter.glitch.me/Qannaf/count.svg" />   
 
 </p>
+![](https://komarev.com/ghpvc/?username=Qannaf&style=flat-square)
 
 <!-- welcome message -->
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
