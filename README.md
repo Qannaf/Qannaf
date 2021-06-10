@@ -26,13 +26,13 @@ I'm Qannaf AL-SAHMI, an engineer with a Master's degree in Electronics, Electrot
 <p>
 <!-- GitHub Stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Qannaf&show_icons=true&hide_border=true" />
-
+<b>GitHub streak</b>
 <!-- Most Used Languages -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qannaf&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 <!--GitHub streak -->
-<b>GitHub streak</b>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Qannaf)](https://git.io/streak-stats)
 
 <p align="center">
