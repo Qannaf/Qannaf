@@ -34,7 +34,7 @@ I'm Qannaf AL-SAHMI, an engineer with a Master's degree in Electronics, Electrot
 <!--GitHub streak -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Qannaf)](https://git.io/streak-stats)
 </p>
-  
+  [![MasterHead](your image link)](your GitHub link)[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
   
 <p align="center">
   <img width="800" height="600" src="qannaf.gif">
