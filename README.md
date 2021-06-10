@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/Qannaf/count.svg" />   
 
 </p>
-![](https://komarev.com/ghpvc/?username=Qannaf&style=flat-square)
+
 
 <!-- welcome message -->
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
@@ -32,6 +32,7 @@ I'm Qannaf AL-SAHMI, an engineer with a Master's degree in Electronics, Electrot
 </p>
 
 <!--GitHub streak -->
+GitHub streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Qannaf)](https://git.io/streak-stats)
 
 <p align="center">
