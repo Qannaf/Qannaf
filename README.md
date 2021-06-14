@@ -34,7 +34,7 @@ I'm Qannaf AL-SAHMI, I'm a software engineer  with a Master's degree in Electron
 
 <!--GitHub streak -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Qannaf)](https://git.io/streak-stats)
-</p>
+
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=Qannaf&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
