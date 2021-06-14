@@ -11,7 +11,7 @@
 <h3>Glad to see you here!</h3>
 ---------------------
 
-I'm Qannaf AL-SAHMI, I am a software engineer  with a Master's degree in Electronics, Electrotechnics and Automation (E.E.A.) specialized in Signal Imaging and Application and a first Master 2 specialized in electronics.
+I'm Qannaf AL-SAHMI, I'm a software engineer  with a Master's degree in Electronics, Electrotechnics and Automation (E.E.A.) specialized in Signal Imaging and Application and a first Master 2 specialized in electronics.
 
 ⚠️ Contact me if you have any question :
 📩 : qannafalsahmi@gmail.com
