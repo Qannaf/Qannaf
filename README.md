@@ -1,5 +1,5 @@
 <!-- visitor counter -->
-<p align="center"> 
+<p align="center"> <strong>👨‍🎓visitor counter</strong><br>
   <img src="https://profile-counter.glitch.me/Qannaf/count.svg" />  
 </p>
 
