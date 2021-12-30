@@ -6,13 +6,23 @@
 
 <!--<a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Qannaf"></a> -->
 
+<h1 align="center">
+  <a href="">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;.here's,Qannaf+AL-SAHMI+..;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <!-- welcome message -->  
-  <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Qannaf AL-SAHMI</h1>
+  <h1 align="center">I'm Qannaf AL-SAHMI</h1>
     <h3 align="center">A passionate software developer from France</h3>
       <h3>Glad to see you here!</h3>
 ---------------------
 
 I'm a software engineer  with a Master's degree in Electronics, Electrotechnics and Automation (E.E.A.) specialized in Signal Imaging and Application and a first Master 2 specialized in electronics.
+
+<p align="center">
+<a href="https://twitter.com/aminostwt" alt="Twitter Follow">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Qannaf&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
+</p>
 
 ⚠️ Contact me if you have any question :
 📩 : qannafalsahmi@gmail.com
