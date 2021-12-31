@@ -11,13 +11,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;.here's,Qannaf+AL-SAHMI+..;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<!-- welcome message -->  
-  <h1 align="center">I'm Qannaf AL-SAHMI</h1>
-    <h3 align="center">A passionate software developer from France</h3>
-      <h3>Glad to see you here!</h3>
----------------------
 
-I'm a software engineer  with a Master's degree in Electronics, Electrotechnics and Automation (E.E.A.) specialized in Signal Imaging and Application and a first Master 2 specialized in electronics.
+
+I'm a software developer with a Master's degree in Electronics, Electrotechnics and Automation (E.E.A.) specialized in Signal Imaging and Application and a first Master 2 specialized in electronics.
 
 <p align="center">
 <a href="https://twitter.com/aminostwt" alt="Twitter Follow">
