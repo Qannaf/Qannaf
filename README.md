@@ -13,7 +13,7 @@
 </h1>
 
 
-I'm a software developer with a Master's degree in Electronics, Electrotechnics and Automation (E.E.A.) specialized in Signal Imaging and Application and a first Master 2 specialized in electronics.
+Passionate engineer with a Master 2 in Signal, Imaging and Applications from the University of Toulouse III Paul Sabatier (2019) and a specialized Master 2 in electronics and industrial computer science (2017). Proficient in software development, signal processing, data/image analysis, and artificial intelligence.
 
 <p align="center">
 <a href="https://twitter.com/aminostwt" alt="Twitter Follow">
